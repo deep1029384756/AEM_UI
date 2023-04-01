@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Test - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2023-03-31T13:03:31.993Z</entry>
+<entry key="groupId">com.mysite</entry>
+<entry key="name">first-app.all</entry>
+<entry key="description">All content package for Test</entry>
+<entry key="artifactId">first-app.all</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.mysite</entry>
+</properties>
